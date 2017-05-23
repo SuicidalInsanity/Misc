@@ -1,4 +1,3 @@
-# Misc
 OVERVIEW
 ===================================================================================================================
 This pack adds alternate black textured aerospace parts via Firespitter texture swapping. Probably not compatible with other Firespitter texture packs.
