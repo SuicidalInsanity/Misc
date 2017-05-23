@@ -1,6 +1,6 @@
-OVERVIEW
+Stock Parts recolor
 ===================================================================================================================
-This pack adds alternate black textured aerospace parts via Firespitter texture swapping. Probably not compatible with other Firespitter texture packs.
+This pack adds alternate black textured mk0, mk1,and mk2 aerospace parts via Firespitter texture swapping. Probably not compatible with other Firespitter texture packs. 
 
 
 INSTALLATION
